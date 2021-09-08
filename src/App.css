@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  list-style: none;
+}
+
+.card-hover:hover {
+  background-color: #014a94;
+  color: white;
+}
+
+dt {
+  display: flex;
+}
+
+.judul {
+  font-weight: bolder;
+}
+
+.full-link {
+  width: max-content;
+  margin-right: 0px;
+}
+
+.card-border {
+  border-radius: 10px;
+  padding: 0px 0px 0px 0px;
+}
+.isi {
+  padding-left: 20px;
+}
+
+.ant-card-head-title {
+  color: #014a94;
+  font-weight: bold;
+}
+
+.ant-btn {
+  background-color: "#f0670f";
+}

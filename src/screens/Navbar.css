@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins&display=swap");
+
+body {
+  font-family: "Poppins";
+}
+
+.navbar .logo {
+  width: 135px;
+  height: 48px;
+}
+
+.navbar h3 {
+  font-weight: bold;
+}
+
+.ant-layout-header {
+  background-color: white;
+  box-shadow: 0px 0px 4px 0px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.row-style {
+  margin-top: 10%;
+}
+.ant-card-body {
+  padding: 10px 0 10px 0;
+}
+
+.site-card-border-less-wrapper :hover {
+  background-color: #014a94;
+  color: white;
+}
